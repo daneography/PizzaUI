@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
 	<img src={logo} className="App-logo" alt="logo" />
-        <h1>Dane's Responsive App for PizzaUI</h1>
+        <h1>Dane's Responsive App for pizza-ui</h1>
       </header>
       <main>
         <div className="content">
