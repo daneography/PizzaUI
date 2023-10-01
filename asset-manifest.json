@@ -1,7 +1,7 @@
 {
   "main.css": "/pizza-ui/static/css/main.67c02eba.chunk.css",
-  "main.js": "/pizza-ui/static/js/main.91a8572a.chunk.js",
-  "main.js.map": "/pizza-ui/static/js/main.91a8572a.chunk.js.map",
+  "main.js": "/pizza-ui/static/js/main.2141a188.chunk.js",
+  "main.js.map": "/pizza-ui/static/js/main.2141a188.chunk.js.map",
   "static/js/1.3c11774c.chunk.js": "/pizza-ui/static/js/1.3c11774c.chunk.js",
   "static/js/1.3c11774c.chunk.js.map": "/pizza-ui/static/js/1.3c11774c.chunk.js.map",
   "static/js/2.6422faee.chunk.js": "/pizza-ui/static/js/2.6422faee.chunk.js",
@@ -11,6 +11,6 @@
   "static/media/logo.svg": "/pizza-ui/static/media/logo.06e73328.svg",
   "static/css/main.67c02eba.chunk.css.map": "/pizza-ui/static/css/main.67c02eba.chunk.css.map",
   "index.html": "/pizza-ui/index.html",
-  "precache-manifest.62f8cb338c9b2f87afd821a95d60fa0f.js": "/pizza-ui/precache-manifest.62f8cb338c9b2f87afd821a95d60fa0f.js",
+  "precache-manifest.8924e10bdc99de2f95be05744ec1fbeb.js": "/pizza-ui/precache-manifest.8924e10bdc99de2f95be05744ec1fbeb.js",
   "service-worker.js": "/pizza-ui/service-worker.js"
 }

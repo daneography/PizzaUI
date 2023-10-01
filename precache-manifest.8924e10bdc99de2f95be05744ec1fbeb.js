@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "91a8572a28e824a1626e",
+    "revision": "2141a18865cc0b449604",
     "url": "/pizza-ui/static/css/main.67c02eba.chunk.css"
   },
   {
-    "revision": "91a8572a28e824a1626e",
-    "url": "/pizza-ui/static/js/main.91a8572a.chunk.js"
+    "revision": "2141a18865cc0b449604",
+    "url": "/pizza-ui/static/js/main.2141a188.chunk.js"
   },
   {
     "revision": "3c11774c00c8fe3168dd",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/pizza-ui/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "ecf2e0432549d7b50f74de3511cec819",
+    "revision": "6a974ae1c432c713ca8b84c8a48f5735",
     "url": "/pizza-ui/index.html"
   }
 ];
