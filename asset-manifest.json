@@ -1,16 +1,15 @@
 {
-  "main.css": "/pizza-ui/static/css/main.67c02eba.chunk.css",
-  "main.js": "/pizza-ui/static/js/main.2141a188.chunk.js",
-  "main.js.map": "/pizza-ui/static/js/main.2141a188.chunk.js.map",
+  "main.css": "/pizza-ui/static/css/main.11339fca.chunk.css",
+  "main.js": "/pizza-ui/static/js/main.1e56acd9.chunk.js",
+  "main.js.map": "/pizza-ui/static/js/main.1e56acd9.chunk.js.map",
   "static/js/1.3c11774c.chunk.js": "/pizza-ui/static/js/1.3c11774c.chunk.js",
   "static/js/1.3c11774c.chunk.js.map": "/pizza-ui/static/js/1.3c11774c.chunk.js.map",
-  "static/js/2.6422faee.chunk.js": "/pizza-ui/static/js/2.6422faee.chunk.js",
-  "static/js/2.6422faee.chunk.js.map": "/pizza-ui/static/js/2.6422faee.chunk.js.map",
+  "static/js/2.cddc92c4.chunk.js": "/pizza-ui/static/js/2.cddc92c4.chunk.js",
+  "static/js/2.cddc92c4.chunk.js.map": "/pizza-ui/static/js/2.cddc92c4.chunk.js.map",
   "runtime~main.js": "/pizza-ui/static/js/runtime~main.ff9e640d.js",
   "runtime~main.js.map": "/pizza-ui/static/js/runtime~main.ff9e640d.js.map",
-  "static/media/logo.svg": "/pizza-ui/static/media/logo.06e73328.svg",
-  "static/css/main.67c02eba.chunk.css.map": "/pizza-ui/static/css/main.67c02eba.chunk.css.map",
+  "static/css/main.11339fca.chunk.css.map": "/pizza-ui/static/css/main.11339fca.chunk.css.map",
   "index.html": "/pizza-ui/index.html",
-  "precache-manifest.8924e10bdc99de2f95be05744ec1fbeb.js": "/pizza-ui/precache-manifest.8924e10bdc99de2f95be05744ec1fbeb.js",
+  "precache-manifest.e77a4145ad5cb1248e6a6b256f88b6b1.js": "/pizza-ui/precache-manifest.e77a4145ad5cb1248e6a6b256f88b6b1.js",
   "service-worker.js": "/pizza-ui/service-worker.js"
 }
